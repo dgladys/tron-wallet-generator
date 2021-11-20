@@ -1,0 +1,14 @@
+{
+    "name": "dgladys/tron-generator",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Damian Gładys",
+            "email": "damian.gladys.cracow@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "dgladys\\TronGenerator\\": ["src/"] }
+    }
+}
